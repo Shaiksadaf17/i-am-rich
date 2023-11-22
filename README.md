@@ -11,9 +11,6 @@ This app is a minimalist showcase of opulence. When you open it, you'll be greet
 - Striking Diamond Display 💎
 - Pure Elegance in Simplicity ✨
 
-## Screenshots
-
-![App Screenshot](screenshot.png)
 
 ## Getting Started
 
