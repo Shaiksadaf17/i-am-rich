@@ -25,8 +25,5 @@ This app is a minimalist showcase of opulence. When you open it, you'll be greet
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
 
 Happy coding! 💻✨
